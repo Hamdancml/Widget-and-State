@@ -1,0 +1,5 @@
+Coloum untuk menyusun elemen secara vertikal.
+Row untuk menyusun elemen secara horizontal.
+Container untuk mengatur warna, margin, dan padding.
+StatefulWidget untuk widget yang tampilannya bisa berubah.
+MediaQuery digunakan untuk mengambil ukuran layar HP agar tampilan bisa menyesuaikan lebar layar.
